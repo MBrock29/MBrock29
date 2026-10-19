@@ -1,21 +1,21 @@
 # Hey, I'm Mike 👋
 
-Full-stack AI engineer with a senior frontend background, focused on building useful AI products, robust customer-facing systems, and interfaces people can trust.
+Software engineer with 6+ years of commercial experience building React, TypeScript, Next.js, and React Native applications. Strong in frontend engineering, design systems, testing, and product delivery, with a growing focus on AI-native products and applied AI.
 
 ## Featured builds
 
-- [Better Focus](https://www.betterfocus.live/app) — AI-powered anti-procrastination product that turns blocked-site visits into flashcard learning sessions, with extension flows, auth, usage limits, premium tiers, Stripe billing, and analytics
-- [BetterBio](https://www.betterbio.live/) — AI-generated dating profile builder based on user wants, interests, and profile goals
-- [Wagmi Hooks Showcase](https://wagmi-hooks.vercel.app) — Practical Web3 reference app demonstrating wallet state, contract reads, Ethereum interactions, and frontend patterns with wagmi
-- [Web3 Mock Betting App](https://web3-mock-betting-app-y7rh.vercel.app) — Decentralized betting prototype built with React, Solidity, and Web3 tooling
-- [Sepolia Test Network Faucet](https://sepolia-faucet-pi.vercel.app) — Developer faucet for requesting Sepolia ETH during smart-contract and dApp development
+- [Better Focus](https://www.betterfocus.live/app) — AI productivity and learning platform that turns distracting-site visits into short learning sessions
+- [BetterBio](https://www.betterbio.live/) — AI-generated dating profiles tailored to users' interests and goals
+- [Wagmi Hooks Showcase](https://wagmi-hooks.vercel.app) — Practical examples of wallet state, contract reads, and Ethereum interactions with wagmi
+- [Web3 Mock Betting App](https://web3-mock-betting-app-y7rh.vercel.app) — Decentralised betting prototype built with React and Solidity
+- [Sepolia Test Network Faucet](https://sepolia-faucet-pi.vercel.app) — Testnet ETH faucet for smart-contract and dApp development
 
 ## Shipped at scale
 
-- [Procode/Utilita](www.utilita.co.uk) — Building multiple greenfield projects, soon to be live to millions of energy customers within the UK
-- [Space 48](www.sns.co.uk) — Contracted to deliver large-scale ecom project
-- [Motorpoint](www.motorpoint.co.uk) — Helped ship 15-month rebuild from legacy stack
-- [Maplin](www.maplin.co.uk) — Sole developer transforming half-baked codebase into production ready
+- [Procode/Utilita](https://www.utilita.co.uk) — React and React Native products serving millions of UK customers, alongside internal AI engineering initiatives
+- [Space 48](https://www.space48.com) — Large-scale headless BigCommerce delivery using React, TypeScript, and Next.js
+- [Motorpoint](https://www.motorpoint.co.uk) — Helped deliver a 15-month website rebuild with React, Next.js, TypeScript, and Tailwind
+- [DirekTek Ltd (Maplin)](https://www.maplin.co.uk) — Sole frontend developer turning an unstable codebase into a production-ready React/Next.js shop
 
 ## More
 
@@ -27,7 +27,7 @@ Full-stack AI engineer with a senior frontend background, focused on building us
 
 - [website](https://mbrock29.com)
 - [x](https://x.com/MBrock29)
-- [linkedin](https://www.linkedin.com/in/mbrock29/)
+- [linkedin](https://www.linkedin.com/in/michael-brock-48909998/)
 - email: mbrock19@gmail.com
 
 
