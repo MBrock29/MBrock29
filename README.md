@@ -5,6 +5,7 @@ Software engineer with 6+ years of commercial experience building React, TypeScr
 ## Featured builds
 
 - [Better Focus](https://www.betterfocus.live/app) — AI productivity and learning platform that turns distracting-site visits into short learning sessions
+- [Signal AI Newsletter](https://signal-ai-newsletter-89gd.vercel.app/) — AI-powered newsletter that researches current developments, scores and filters stories, and generates evidence-led weekly digests.
 - [BetterBio](https://www.betterbio.live/) — AI-generated dating profiles tailored to users' interests and goals
 - [Wagmi Hooks Showcase](https://wagmi-hooks.vercel.app) — Practical examples of wallet state, contract reads, and Ethereum interactions with wagmi
 - [Web3 Mock Betting App](https://web3-mock-betting-app-y7rh.vercel.app) — Decentralised betting prototype built with React and Solidity
