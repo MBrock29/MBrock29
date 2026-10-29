@@ -27,7 +27,6 @@ Software engineer with 6+ years of commercial experience building React, TypeScr
 ## Elsewhere
 
 - [website](https://mbrock29.com)
-- [x](https://x.com/MBrock29)
 - [linkedin](https://www.linkedin.com/in/michael-brock-48909998/)
 - email: mbrock19@gmail.com
 
